@@ -1,0 +1,167 @@
+[
+    {
+      "id": 1,
+      "firstName": "Luz",
+      "lastName": "Flatley",
+      "age": 40,
+      "subordinates": [
+        { "id": 101, "firstName": "John", "lastName": "Doe", "age": 25 },
+        { "id": 102, "firstName": "Jane", "lastName": "Smith", "age": 28 }
+      ]
+    },
+    {
+      "id": 2,
+      "firstName": "Buford",
+      "lastName": "Zemlak",
+      "age": 35,
+      "subordinates": [
+        { "id": 103, "firstName": "Alice", "lastName": "Brown", "age": 30 }
+      ]
+    },
+    {
+      "id": 3,
+      "firstName": "Ivah",
+      "lastName": "Schoen",
+      "age": 50,
+      "subordinates": []
+    },
+    {
+      "id": 4,
+      "firstName": "Rowena",
+      "lastName": "Green",
+      "age": 45,
+      "subordinates": [
+        { "id": 104, "firstName": "Mark", "lastName": "White", "age": 26 },
+        { "id": 105, "firstName": "Laura", "lastName": "King", "age": 32 }
+      ]
+    },
+    {
+      "id": 5,
+      "firstName": "Laurel",
+      "lastName": "Boehm",
+      "age": 29,
+      "subordinates": []
+    },
+    {
+      "id": 6,
+      "firstName": "Markus",
+      "lastName": "Moore",
+      "age": 38,
+      "subordinates": [
+        { "id": 106, "firstName": "Nancy", "lastName": "Allen", "age": 23 }
+      ]
+    },
+    {
+      "id": 7,
+      "firstName": "Anne",
+      "lastName": "Hegmann",
+      "age": 34,
+      "subordinates": []
+    },
+    {
+      "id": 8,
+      "firstName": "Jefferey",
+      "lastName": "Rodriguez",
+      "age": 41,
+      "subordinates": [
+        { "id": 107, "firstName": "Paul", "lastName": "Martinez", "age": 27 },
+        { "id": 108, "firstName": "Sophia", "lastName": "Johnson", "age": 24 }
+      ]
+    },
+    {
+      "id": 9,
+      "firstName": "Albertha",
+      "lastName": "Reilly",
+      "age": 48,
+      "subordinates": []
+    },
+    {
+      "id": 10,
+      "firstName": "Adalberto",
+      "lastName": "Von-Keeling",
+      "age": 39,
+      "subordinates": []
+    },
+    {
+      "id": 11,
+      "firstName": "Junius",
+      "lastName": "Robel",
+      "age": 33,
+      "subordinates": [
+        { "id": 109, "firstName": "Emma", "lastName": "Lopez", "age": 22 }
+      ]
+    },
+    {
+      "id": 12,
+      "firstName": "Haskell",
+      "lastName": "Armstrong-Smith",
+      "age": 36,
+      "subordinates": [
+        { "id": 110, "firstName": "Oliver", "lastName": "Brown", "age": 30 }
+      ]
+    },
+    {
+      "id": 13,
+      "firstName": "Megan",
+      "lastName": "Harris",
+      "age": 42,
+      "subordinates": []
+    },
+    {
+      "id": 14,
+      "firstName": "David",
+      "lastName": "Clark",
+      "age": 47,
+      "subordinates": [
+        { "id": 111, "firstName": "Liam", "lastName": "Davis", "age": 25 },
+        { "id": 112, "firstName": "Ella", "lastName": "Garcia", "age": 28 }
+      ]
+    },
+    {
+      "id": 15,
+      "firstName": "Sophia",
+      "lastName": "Wright",
+      "age": 31,
+      "subordinates": []
+    },
+    {
+      "id": 16,
+      "firstName": "Ethan",
+      "lastName": "Hall",
+      "age": 44,
+      "subordinates": [
+        { "id": 113, "firstName": "Chloe", "lastName": "Young", "age": 26 }
+      ]
+    },
+    {
+      "id": 17,
+      "firstName": "Isabella",
+      "lastName": "Adams",
+      "age": 37,
+      "subordinates": []
+    },
+    {
+      "id": 18,
+      "firstName": "Alexander",
+      "lastName": "Lewis",
+      "age": 46,
+      "subordinates": [
+        { "id": 114, "firstName": "Lucas", "lastName": "Hill", "age": 29 }
+      ]
+    },
+    {
+      "id": 19,
+      "firstName": "Ava",
+      "lastName": "Scott",
+      "age": 40,
+      "subordinates": []
+    },
+    {
+      "id": 20,
+      "firstName": "James",
+      "lastName": "Evans",
+      "age": 43,
+      "subordinates": []
+    }
+  ]
+  
